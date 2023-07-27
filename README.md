@@ -1,4 +1,4 @@
-**Hey there 👋🏻 <br>I'm Vadym. It's a pleasure to meet you!<br><br>👨🏻‍💻 I'm a junior frontend developer and my passion is to build slick and well optimised websites and web apps. I’m very much into learning to work with new technologies, always improving myself to stay on top of my field. 📈<br><br>⚡️ Besides code, hiking, running, music, cooking, and skin care are my happy places. 🌿**
+**Hey there 👋🏻 <br>I'm Vadym. It's a pleasure to meet you!<br><br> I'm a junior frontend developer and my passion is to build slick and well optimised websites and web apps. I’m very much into learning to work with new technologies, always improving myself to stay on top of my field 👨🏻‍💻 <br><br> Besides code, hiking, running, music, cooking, and skin care are my happy places 🌿**
 
 ---
 
